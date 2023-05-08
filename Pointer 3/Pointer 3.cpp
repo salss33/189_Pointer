@@ -31,3 +31,5 @@ void siswa::setID(int pId) {
 void orang::setNama(string[pNama) {
 	nama = pNama;
 }
+
+int main()
