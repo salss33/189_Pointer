@@ -18,3 +18,4 @@ int main()
     mhs.showNim();                    // member acces Operator
 
     mahasiswa& ref = mhs; //ponter reference refMhs
+    pMhs-> = 3;           // arrow operator
