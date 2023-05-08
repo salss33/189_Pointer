@@ -9,4 +9,5 @@ class mahasiswa {
 	}
 };
 
-int main() 
+int main()
+{
