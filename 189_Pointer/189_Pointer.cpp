@@ -22,3 +22,4 @@ int main()
     mhs.showNim();
     system("pause");
     return 0;
+}
