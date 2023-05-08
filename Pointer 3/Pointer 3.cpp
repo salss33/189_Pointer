@@ -13,3 +13,4 @@ Public:
 
 class siswa {
 private:
+	int id;
