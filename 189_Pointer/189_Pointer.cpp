@@ -21,3 +21,4 @@ int main()
     pMhs-> = 3;           // arrow operator
     mhs.showNim();
     system("pause");
+    return 0;
