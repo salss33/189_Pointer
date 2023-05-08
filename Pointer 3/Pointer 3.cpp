@@ -8,3 +8,4 @@ private:
 	string nama;
 Public:
 	void setNama(string pNama);
+	friend class siswa;
