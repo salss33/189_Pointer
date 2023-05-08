@@ -24,4 +24,7 @@ public:
 		manusia m;
 		pelajar p;
 		m.showNilaiPelajar(P);
-	
+		cout << endl;
+		system("\nPause");
+		return 0;
+	}
