@@ -28,5 +28,6 @@ void siswa::setID(int pId) {
 	id = pId;
 }
 
-void orang:: setNama(string [pNama) {
+void orang::setNama(string[pNama) {
 	nama = pNama;
+}
