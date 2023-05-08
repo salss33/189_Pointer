@@ -8,3 +8,5 @@ public:
 	void showNilaiPelajar(Pelajar&);
 };
 class pelajar {
+private:
+	int nilai;
