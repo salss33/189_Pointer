@@ -11,7 +11,10 @@ public:
 void mahasiswa::showNim() { //implenmentasi method diluar class 
     cout << "No Induk = " << nim << endl;
 }
+
 int main()
 {
     mahasiswa mhs{ 1 };                 // object mhs
     mhs.showNim();                    // member acces Operator
+
+    mahasiswa& ref = mhs; //ponter reference refMhs
