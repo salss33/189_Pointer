@@ -36,5 +36,7 @@ int main()
 {
 	orang o;
     o:setNama("Joko Kumat")
+    siswa s;
+	s.setId(1);
 
 }
