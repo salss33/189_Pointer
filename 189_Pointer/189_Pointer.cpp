@@ -20,3 +20,4 @@ int main()
     mahasiswa& ref = mhs; //ponter reference refMhs
     pMhs-> = 3;           // arrow operator
     mhs.showNim();
+    system("pause");
