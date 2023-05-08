@@ -22,4 +22,4 @@ public:
 	int main()
 	{
 		manusia m;
-	}
+		pelajar p;
