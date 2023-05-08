@@ -12,3 +12,4 @@ private:
 	int nilai;
 public:
 	pelajar() {
+		nilai = 100;
