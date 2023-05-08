@@ -12,3 +12,5 @@ void mahasiswa::showNim() { //implenmentasi method diluar class
     cout << "No Induk = " << nim << endl;
 }
 int main()
+{
+    mahasiswa mhs{ 1 };
