@@ -23,3 +23,5 @@ public:
 	{
 		manusia m;
 		pelajar p;
+		m.showNilaiPelajar(P);
+	
